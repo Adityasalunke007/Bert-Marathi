@@ -1,11 +1,10 @@
-# Bert-Marathi
-## Marathi BERT QA Project
+## Bert-Marathi
 
 This repository contains code for training a BERT model from scratch on Marathi language data, fine-tuning it for question-answering (QA), and deploying it as a cloud-native solution on Azure.
 
 ### Project Structure:
 ```
-Bert-Marathi-QA/
+Bert-Marathi/
 ├── README.md               # Documentation
 ├── requirements.txt        # Dependencies
 ├── data/
